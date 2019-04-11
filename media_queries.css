@@ -1,0 +1,759 @@
+@media only screen and (max-width: 480px) {
+    
+    
+    #wrapper {
+        
+        padding: 0;
+        margin: 0;
+        width: 100%;
+        background-color: #000;
+    }
+    
+ 
+    
+    #inBox1{
+        
+        width: 60%;
+    }
+    
+     #inBox2{
+        
+        width: 40%;
+    }
+    
+    
+    #box3Big{
+        width: 100%;
+        overflow: hidden;
+        background-color: #000;
+       
+      
+    }
+    
+    .inBoxBig {
+         height: auto;
+    }
+    
+    #box3Big p {
+        font-size: 20px;
+    }
+    
+     #box3Big .inBoxBig {
+        margin: 0px 0px 5px 0px ;
+        width: 100%;
+        float: none;
+        
+      
+    }
+
+ #box3Big  .inBoxBig:nth-last-of-type(1),  
+ #box3Big  .inBoxBig:nth-last-of-type(3), 
+ #box3Big  .inBoxBig:nth-last-of-type(5),
+ #box3Big  .inBoxBig:nth-last-of-type(7),
+ #box3Big  .inBoxBig:nth-last-of-type(9), 
+ #box3Big  .inBoxBig:nth-last-of-type(11)
+{
+    margin-left: 0px;  
+    
+   
+    
+}
+    
+
+    
+    #box4 {
+        width: 100%;
+        overflow: hidden;
+    }
+    
+    #box4 p {
+        font-size: 25px;
+    }
+    
+    .inBox4 {
+        width: 100%;
+        height: auto;
+        margin-bottom: 0;
+        margin-top: 5px;
+    }
+    
+    .inBox4:first-of-type, .inBox5:first-of-type, .test:first-of-type {
+    margin-right: 0px;
+}
+    
+    .Box4image {
+        height: 150px;
+    }
+    
+    #box5 {
+        width: 100%;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        height: auto;
+        
+       
+    }
+    
+    .inBox5 {
+    width: 100%;
+      background: linear-gradient(to bottom, #323232 0%, #3F3F3F 40%, #1C1C1C 150%), linear-gradient(to top, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.25) 200%);
+ background-blend-mode: multiply;
+    height: auto;
+    float: none;
+       
+   
+}
+    
+    .inBox5 p {
+        font-size: 20px;
+    }
+    
+    .Box5image {
+    
+    margin-top: 5px;
+    height: 170px;    
+        
+        
+    }
+    
+    
+    .split {
+    width: 49.5%;
+    background-color: deepskyblue;
+    height: 170px;
+    float: left;
+}
+    
+    .split:first-of-type{
+    margin-right: 1%;
+}
+    
+    #box6 {
+        margin-top: 0;
+        padding: 0;
+        height: auto;
+        clear: both;
+        float: none;
+        
+        
+    }
+    
+    .test{
+        float: none;
+        font-size: 20px;
+        width: 100%;
+        margin-bottom: 5px;
+    }
+    
+    .test:first-of-type(){
+        margin-right: 0;
+    }
+    
+    .test a {
+        
+        text-align: center; 
+        
+    }
+    
+    #box6 p {
+        padding-bottom: 3px;
+    }
+    
+    .inBox6 {
+        width: 100%;
+        margin-bottom: 5px;
+        height: 216px;
+        
+    }
+    
+    #top7{
+        height: 130px;
+    
+    }
+    
+    #box7 {
+        margin-top: 0;
+    }
+    
+    #socialBottom {
+        margin-left: 10%;
+        margin-right: 10px;
+        letter-spacing: 5px;
+        width: 80%;
+        
+    }
+    
+    #copy {
+        margin-left: 15px;
+    }
+    
+    #footer {
+        height: 200px;
+        margin-top: 0;
+    }
+    
+    .model {
+        height: 230px;
+    }
+    
+      #info {
+        
+        padding: 0;
+        margin: 6%;;
+        width: 88%;
+        text-align: justify;
+        background-color: #ccc;
+    }
+    
+   
+}
+
+@media only screen and (min-width: 481px) and (max-width: 600px) {
+    
+    #wrapper {
+        
+        padding: 0;
+        width: 100%;
+        background-color: #000;
+    }
+    
+   #headerTop .logoBox p {
+    color: #fff;
+    margin: 0;
+    text-align: center;
+    font-size: 24px;
+    padding-top: 25px; 
+    margin-left: 240px;
+ 
+}
+    
+    
+    #inBox1{
+        
+        width: 60%;
+    }
+    
+     #inBox2{
+        
+        width: 40%;
+    }
+    
+    .inBoxBig {
+        height: auto;
+    }
+    
+    
+    #box3Big{
+        width: 100%;
+        overflow: hidden;
+         background-color: #000;
+      
+    }
+    
+    #box3Big p {
+        font-size: 20px;
+    }
+    
+     #box3Big .inBoxBig {
+        margin: 0px 0px 5px 0px ;
+        width: 100%;
+        float: none;
+        
+      
+    }
+
+ #box3Big  .inBoxBig:nth-last-of-type(1),  
+ #box3Big  .inBoxBig:nth-last-of-type(3), 
+ #box3Big  .inBoxBig:nth-last-of-type(5),
+ #box3Big  .inBoxBig:nth-last-of-type(7),
+ #box3Big  .inBoxBig:nth-last-of-type(9), 
+ #box3Big  .inBoxBig:nth-last-of-type(11)
+{
+    margin-left: 0px;  
+    
+   
+    
+}
+    
+
+    
+    #box4 {
+        width: 100%;
+    }
+    
+    #box4 p {
+        font-size: 30px;
+    }
+    
+    .inBox4 {
+        width: 100%;
+        margin: 0;
+        margin-top: 5px;
+        height: auto;
+    }
+    
+    .inBox4:first-of-type, .inBox5:first-of-type, .inBox6:first-of-type {
+    margin-right: 8px;
+}
+    
+    .Box4image {
+        height: 230px;
+    }
+    
+    #box5 {
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+        
+    }
+    
+    .inBox5 {
+    width: 100%;
+      background: linear-gradient(to bottom, #323232 0%, #3F3F3F 40%, #1C1C1C 150%), linear-gradient(to top, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.25) 200%);
+ background-blend-mode: multiply;
+    height: auto;
+    float: left;
+        margin-top: 5px;
+  
+}
+    .inBox5 p {
+        font-size: 25px;
+    }
+    
+    .Box5image {
+    
+    height: 230px;    
+        
+        
+    }
+    
+    
+    .split {
+    width: 49.5%;
+    background-color: deepskyblue;
+    height: 170px;
+    float: left;
+        margin-bottom: 5px;
+}
+    
+    .split:first-of-type{
+    margin-right: 1%;
+}
+    
+    #box6 {
+        
+        padding: 0;
+        margin: 0;
+        clear: both;
+        overflow: hidden;
+        
+    }
+    
+     .test {
+        height: auto;
+         float: none;
+         margin-top: 5px;
+         width: 100%;
+         font-size: 30px;
+    }
+    
+    .inBox6 {
+        width: 100%;
+        margin-bottom: 5px;
+        height: 230px;
+    }
+    
+    #top7{
+        height: 100px;
+    
+    }
+    
+    #socialBottom {
+        margin-right: 30px;
+    }
+    
+    #footer {
+        height: 140px;
+        margin-top: 0;
+    }
+    
+    .model {
+        height: 250px;
+    }
+    
+     #info {
+        
+        padding: 0;
+        margin: 6%;;
+        width: 88%;
+        text-align: justify;
+        background-color: #ccc;
+    }
+} 
+
+
+@media only screen and (min-width: 601px) and (max-width: 768px){
+    
+    #wrapper {
+        
+        padding: 0px 10px;
+        width: 570px;
+        background-color: #000;
+    }
+    
+    #inBox1{
+        
+        width: 362px;
+    }
+    
+     #inBox2{
+        
+        width: 208px;
+    }
+    
+    
+    #box3Big{
+        width: 570px;
+        overflow: hidden;
+        background-color: #000;
+      
+    }
+    
+    #box3Big p {
+        font-size: 30px;
+    }
+    
+     #box3Big .inBoxBig {
+        margin: 10px 0px 0px 0px ;
+        width: 279px;
+        float: left;
+        
+      
+    }
+
+ #box3Big  .inBoxBig:nth-last-of-type(1),  
+ #box3Big  .inBoxBig:nth-last-of-type(3), 
+ #box3Big  .inBoxBig:nth-last-of-type(5),
+ #box3Big  .inBoxBig:nth-last-of-type(7),
+ #box3Big  .inBoxBig:nth-last-of-type(9), 
+ #box3Big  .inBoxBig:nth-last-of-type(11)
+{
+    margin-left: 8px;  
+    
+   
+    
+}
+    
+
+    
+    #box4 {
+        width: 570px;
+    }
+    
+    .inBox4 {
+        width: 281px;
+        height: auto;
+        
+    }
+    
+    .inBoxBig {
+        height: auto;
+    }
+    
+    
+    .inBox4:first-of-type, .inBox5:first-of-type, .test:first-of-type {
+    margin-right: 8px;
+}
+    
+    .Box4image {
+        height: 150px;
+    }
+    
+    #box5 {
+        width: 570px;
+        margin-bottom: 10px;
+    }
+    
+    .inBox5 {
+    width: 281px;
+      background: linear-gradient(to bottom, #323232 0%, #3F3F3F 40%, #1C1C1C 150%), linear-gradient(to top, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.25) 200%);
+ background-blend-mode: multiply;
+   
+    float: left;
+}
+    
+    
+    .Box5image {
+    
+    height: 170px;    
+        
+        
+    }
+    
+    
+    .split {
+    width: 49.5%;
+    background-color: deepskyblue;
+    height: 170px;
+    float: left;
+}
+    
+    .split:first-of-type{
+    margin-right: 1%;
+}
+    
+    #box6 {
+        margin-top: 0;
+        padding: 0;
+        
+    }
+    
+    .test {
+        width: 281px;
+        font-size: 30px;
+    }
+    
+    
+    .inBox6 {
+        width: 280px;
+    }
+    
+    #box7 {
+        background-color: #000;
+        margin-top: 10px;
+    }
+    
+    #footer {
+        height: 145px;
+    }
+    
+    .model {
+        height: 280px;
+        
+    }
+    
+     #info {
+        
+        padding: 0;
+        margin: 6%;;
+        width: 88%;
+        text-align: justify;
+        background-color: #ccc;
+    }
+} 
+
+
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+    
+    #wrapper {
+        
+        margin: 0 auto;
+        width: 748px;
+        background-color: #000;
+    }
+    
+
+    
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    
+    #box1 {
+        overflow: hidden;
+    }
+    
+    #inBox1{
+        
+        width: 530px;
+    }
+    
+     #inBox2{
+        
+        width: 218px;
+    }
+    
+    .inBoxBig {
+        width: 244px;
+        margin-right: 5px;
+        margin-top: 0px;
+    }
+    
+   .inBoxBig:nth-last-of-type(1),
+   .inBoxBig:nth-last-of-type(4),
+   .inBoxBig:nth-last-of-type(7), 
+   .inBoxBig:nth-last-of-type(10) {
+        margin-top: 0px;
+    }
+    
+    
+    #box4 {
+        width: 100%;
+    }
+    
+    .inBox4 {
+        width: 369px;
+    }
+    
+    .inBox4:first-of-type, .inBox5:first-of-type, .inBox6:first-of-type {
+    margin-right: 10px;
+}
+    
+    #box5 {
+        width: 100%;
+        height: 282px;
+    }
+    
+    .inBox5 {
+    width: 369px;
+    background: linear-gradient(to bottom, #323232 0%, #3F3F3F 40%, #1C1C1C 150%), linear-gradient(to top, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.25) 200%);
+ background-blend-mode: multiply;
+    height: 272px;
+    float: left;
+}
+    
+   
+        
+    
+    .split {
+    width: 49.5%;
+    background-color: deepskyblue;
+    height: 220px;
+    float: left;
+}
+    
+    .split:first-of-type{
+    margin-right: 1%;
+}
+    
+    #box6 {
+        margin-top: 0;
+        
+    }
+    
+    
+    .test {
+        width: 369px;
+        font-size: 30px;
+        height: auto;
+    }
+    
+    .inBox6 {
+        width: 369px;
+    }
+    
+    #footer {
+        height: 200px;
+        
+    }
+    
+     #info {
+        
+        padding: 0;
+        margin: 6%;;
+        width: 88%;
+        text-align: justify;
+        background-color: #ccc;
+    }
+    
+} 
+
+
+@media only screen and (min-width: 993px) and (max-width: 1200px){
+    
+    #wrapper {
+        
+        padding: 0px 10px;
+        width: 960px;
+        background-color: #000;
+    }
+    
+   
+    
+    #inBox1{
+        
+        width: 660px;
+    }
+    
+     #inBox2{
+        
+        width: 300px;
+    }
+    
+    .inBoxBig {
+        width: 310px;
+        
+    }
+    
+    #box4 {
+        
+        height: 270px;
+        overflow: hidden;
+        margin-bottom: 10px;
+    }
+    
+    .inBox4 {
+        width: 475px;
+    }
+    
+    .inBox4:first-of-type, .inBox5:first-of-type, .test:first-of-type {
+    margin-right: 10px;
+}
+    
+    #box5 {
+        width: 960px;
+        overflow: hidden;
+        margin-bottom: 10px;
+    }
+    
+    .inBox5 {
+    width: 475px;
+      background: linear-gradient(to bottom, #323232 0%, #3F3F3F 40%, #1C1C1C 150%), linear-gradient(to top, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.25) 200%);
+ background-blend-mode: multiply;
+    height: auto;
+    float: left;
+}
+    
+    .split {
+    width: 49.5%;
+    background-color: deepskyblue;
+    height: 230px;
+    float: left;
+}
+    
+   .Box5image {
+        height: 230px;
+    }
+        
+    
+    .split:first-of-type{
+    margin-right: 1%;
+}
+    
+    #box6 {
+        margin-top: 0;
+        width: 960px;
+        
+        
+    }
+    
+    .test {
+        width: 475px;
+        height: auto;
+    }
+    
+    .inBox6 {
+        width: 475px;
+    }
+    
+     #info {
+        
+        padding: 0;
+        margin: 6%;;
+        width: 88%;
+        text-align: justify;
+        background-color: #ccc;
+    }
+    
+} 
+
